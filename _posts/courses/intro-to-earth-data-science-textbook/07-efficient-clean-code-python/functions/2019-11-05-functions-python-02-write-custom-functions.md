@@ -8,7 +8,7 @@ class-lesson: ['intro-functions-tb']
 permalink: /courses/intro-to-earth-data-science/write-efficient-python-code/functions/write-functions-in-python/
 nav-title: "Write Functions in Python"
 dateCreated: 2019-11-05
-modified: 2019-11-09
+modified: 2020-01-08
 module-type: 'class'
 chapter: 19
 course: "intro-to-earth-data-science-textbook"
